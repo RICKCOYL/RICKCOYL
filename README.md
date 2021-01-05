@@ -11,7 +11,7 @@
 
 
 
-[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=RICKCOYL)](https://github.com/RICKCOYL/github-readme-stats)
+[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=RICKCOYL&theme=radical)](https://github.com/RICKCOYL/github-readme-stats)
 
 
 <br>
