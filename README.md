@@ -1,6 +1,4 @@
 ### Hi there, I'm Rick Oburu- aka [RICKCOYL]👋
-<br>
-<br>
 
 ### Connect with me:
 
@@ -10,6 +8,8 @@
 
 <br>
 <br>
+<br>
+
 
 
 
