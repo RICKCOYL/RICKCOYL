@@ -41,4 +41,4 @@
 
 [twitter]: https://twitter.com/Rickcoyl
 [instagram]: https://instagram.com/rick_oburu
-[linkedin]: https://www.linkedin.com/in/rick-oburu-8627591a4/
+[linkedin]: https://www.linkedin.com/in/rickoburu/
